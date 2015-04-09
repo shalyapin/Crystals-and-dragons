@@ -24,3 +24,7 @@ void Monster::setX(int x) {
 void Monster::setY(int y) {
 	this->y = y;
 }
+
+Monster::~Monster() {
+
+}

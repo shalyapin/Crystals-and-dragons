@@ -1,12 +1,8 @@
-﻿Сборка начата 09.04.2015 14:44:26.
+﻿Сборка начата 09.04.2015 15:03:49.
      1>Проект "C:\Users\Ivan\documents\visual studio 2013\Projects\Crystals and dragons\Crystals and dragons\Crystals and dragons.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt World.cpp
-         World.cpp
-     1>c:\users\ivan\documents\visual studio 2013\projects\crystals and dragons\crystals and dragons\world.cpp(12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-     1>c:\users\ivan\documents\visual studio 2013\projects\crystals and dragons\crystals and dragons\world.cpp(14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-     1>c:\users\ivan\documents\visual studio 2013\projects\crystals and dragons\crystals and dragons\world.cpp(16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-     1>c:\users\ivan\documents\visual studio 2013\projects\crystals and dragons\crystals and dragons\world.cpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Monster.cpp
+         Monster.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ivan\documents\visual studio 2013\Projects\Crystals and dragons\Debug\Crystals and dragons.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ivan\documents\visual studio 2013\Projects\Crystals and dragons\Debug\Crystals and dragons.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ivan\documents\visual studio 2013\Projects\Crystals and dragons\Debug\Crystals and dragons.lib" /MACHINE:X86 Debug\Controller.obj
          Debug\Game.obj
@@ -25,4 +21,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.17
+Затраченное время: 00:00:01.60
